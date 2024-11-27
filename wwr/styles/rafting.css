@@ -35,9 +35,9 @@ h1 {
 article {
     position: absolute;
     float: right;
-    top: 130%;
-    left: 10%;
-    right: 10%;
+    top: 60vw;
+    left: 10vw;
+    right: 10vw;
     text-align: justify;
     font-weight: 700;
     background-color: var(--paragraph-background-color);
